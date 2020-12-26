@@ -1,0 +1,127 @@
+[
+    {
+        "situationImage": "img/game/forest/forest1.jpg",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Quelle est cette plante ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Romarin",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Thym",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Œillet",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Orchidée",
+        		"isCorrect": false
+        	}
+        ]
+	},
+	{
+        "situationImage": "img/game/forest/forest2.jpg",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Quelle est le vent dominant qui souffle sur les bouches du Rhône ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Tramontane",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Bise",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Mistral",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Sirocco",
+        		"isCorrect": false
+        	}
+        ]
+    },
+	{
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "record/cigales.mp3",
+        "question": "Quel insecte fait ce bruit ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Le grillon",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Le bourdon",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Le bousier de calanques",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "La cigale",
+        		"isCorrect": true
+        	}
+        ]
+    },
+	{
+        "situationImage": "img/game/forest/forest3.jpg",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Quelle est cette plante ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Thym",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Lavande",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Romarin",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Œillet",
+        		"isCorrect": false
+        	}
+        ]
+    },
+	{
+        "situationImage": "img/game/forest/forest4.jpg",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Quelle est cette plante ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Sauge",
+        		"isCorrect": true
+        	},
+            {
+        		"response": "Lavande",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Romarin",
+        		"isCorrect": false
+        	},
+            {
+        		"response": "Œillet",
+        		"isCorrect": false
+        	}
+        ]
+    }
+]

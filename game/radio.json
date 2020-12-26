@@ -1,0 +1,279 @@
+[
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "En mission je mets la radio :",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Sur mon épaule",
+        		"isCorrect": true
+        	},
+		{
+        		"response": "Dans mon sac",
+        		"isCorrect": false
+        	},
+		{
+        		"response": "Dans ma poche",
+        		"isCorrect": false
+        	}
+        ]
+    },
+	{
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Si j’entends “PC Saint Julien de vigie Moulin”, c’est:",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "La vigie qui appelle le PC pour un signalement.",
+        		"isCorrect": true
+        	},
+		{
+        		"response": "Un appel de routine du PC.",
+        		"isCorrect": false
+        	},
+		{
+        		"response": "Un appel de la vigie qui réclame un réchaud.",
+        		"isCorrect": false
+        	}
+        ]
+    },
+	{
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "La radio fait bip bip toutes les 30 secondes :",
+		"explication": "La radio n'a plus de batterie, il faut prévenir le PC de cette situation",
+        "possibleAnswers": [
+        	{
+        		"response": "Elle n’a plus de batterie",
+        		"isCorrect": true
+        	},
+		{
+        		"response": "Quelqu’un m’appelle, je décroche",
+        		"isCorrect": false
+        	},
+		{
+        		"response": "Quelqu’un m’appelle en morse, je déchiffre.",
+        		"isCorrect": false
+        	}
+        ]
+    },
+	{
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Quel est le mot pour A en alphabet international?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Alpha",
+        		"isCorrect": true
+        	},
+		{
+        		"response": "Amélie",
+        		"isCorrect": false
+        	},
+		{
+        		"response": "Albâtre",
+        		"isCorrect": false
+        	}
+        ]
+    },
+	{
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Quel est le mot pour D en alphabet international ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Delta",
+        		"isCorrect": true
+        	},
+		{
+        		"response": "Defcon",
+        		"isCorrect": false
+        	},
+		{
+        		"response": "David",
+        		"isCorrect": false
+        	}
+        ]
+    },
+	{
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Comment lance t'on un appel par radio ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Paul de Amélie",
+        		"isCorrect": true
+        	},
+		{
+        		"response": "Amélie pour Paul",
+        		"isCorrect": false
+        	},
+		{
+        		"response": "Allo Paul c’est Amélie",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Puis-je changer de canal radio?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Oui, je fais ce que je veux",
+        		"isCorrect": false
+        	},
+		{
+        		"response": "Non, c’est interdit!",
+        		"isCorrect": false
+		},
+		{
+        		"response": "Si le PC me dit de le faire",
+        		"isCorrect": true
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Sur la radio, je peux parler de...",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "... la mission",
+        		"isCorrect": true
+        	},
+		{
+        		"response": "... la pluie et du beau temps.",
+        		"isCorrect": false
+        	},
+		{
+        		"response": "... des anecdotes du camp.",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Comment dois je parler à la radio ?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Je crie dans la radio.",
+        		"isCorrect": false
+        	},
+		{
+        		"response": "Je parle normalement en articulant.",
+        		"isCorrect": true
+        	},
+		{
+        		"response": "Je parle vite pour libérer le canal.",
+        		"isCorrect": false
+        	},
+		{
+        		"response": "Je parle comme pour un appel téléphonique.",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Avant de partir en mission...",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Je teste ma radio.",
+        		"isCorrect": true
+        	},
+		{
+        		"response": "Je fais confiance aux coordos, mon matériel est opérationnel.",
+        		"isCorrect": false
+        	},
+		{
+        		"response": "Je ne vérifie rien.",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "img/game/radio/RadioMissions.PNG",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Quel bouton utilise t'on pour allumer et éteindre la radio?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Rouge",
+        		"isCorrect": false
+        	},
+		{
+        		"response": "Jaune",
+        		"isCorrect": true
+        	},
+		{
+        		"response": "Bleu ",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "img/game/radio/RadioMissions.PNG",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "quel est le bouton sur lequel appuyer pour parler?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Rouge",
+        		"isCorrect": true
+        	},
+		{
+        		"response": "Jaune",
+        		"isCorrect": false
+        	},
+		{
+        		"response": "Bleu ",
+        		"isCorrect": false
+        	}
+        ]
+    },
+    {
+        "situationImage": "img/game/radio/RadioMissions.PNG",
+		"videoUrl": "",
+        "situationRecord": "",
+        "question": "Quel est le bouton à utiliser pour changer de canal?",
+		"explication": "",
+        "possibleAnswers": [
+        	{
+        		"response": "Rouge",
+        		"isCorrect": false
+        	},
+		{
+        		"response": "Jaune",
+        		"isCorrect": false
+        	},
+		{
+        		"response": "Bleu ",
+        		"isCorrect": true
+        	}
+        ]
+    }
+]
